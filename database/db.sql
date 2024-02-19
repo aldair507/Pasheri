@@ -1,4 +1,4 @@
-CREATE DATABASE aserhidb;
+CREATE DATABASE asheridb;
 
 
 
